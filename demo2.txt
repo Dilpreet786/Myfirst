@@ -3,6 +3,8 @@ class Hello
 {
 public static void main(String[] args){
 System.out.println("DILPREET SINGH");
+System.out.println("HELLO WORLD");
+
 }
 
 }
